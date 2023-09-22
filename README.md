@@ -30,4 +30,6 @@ Several visualizations have been crafted to provide a clearer understanding:
 - Bar charts depicting the correlation of mood and acoustic properties with track popularity.
 - A scatter plot illustrating the relationship between track duration and popularity.
 
-More analysis' curated through Tableau can be found here: https://www.notion.so/TikTok-Song-Popularity-Analysis-3db0f98e57364e78b28fb21a1d2e0228?pvs=4
+More analysis' curated through Tableau can be found here: https://public.tableau.com/app/profile/daisia.frank/viz/TiktokArtistV_STrackPopularity/Popularity
+
+https://www.notion.so/TikTok-Song-Popularity-Analysis-3db0f98e57364e78b28fb21a1d2e0228?pvs=4
