@@ -4,6 +4,8 @@
 
 This analysis delves into the characteristics and popularity metrics of songs that trended on TikTok in 2022.
 
+**Full Code located in file: "1. TikTok Song Popularity EDA/ML.ipynb"**
+
 ### Data Overview
 
 The dataset comprises several attributes of songs, including their name, artist, album, popularity metrics, and various acoustic properties.
@@ -29,8 +31,6 @@ Several visualizations have been crafted to provide a clearer understanding:
 - A bar chart ranking the top 10 artists.
 - Bar charts depicting the correlation of mood and acoustic properties with track popularity.
 - A scatter plot illustrating the relationship between track duration and popularity.
-
-  **Full Code located in file: "1. TikTok Song Popularity EDA:ML.ipynb"**
 
 
 More analysis' curated through Tableau can be found here: https://public.tableau.com/app/profile/daisia.frank/viz/TiktokArtistV_STrackPopularity/Popularity
